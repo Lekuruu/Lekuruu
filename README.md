@@ -15,8 +15,8 @@ I'm too lazy to write an essay, so here are some small facts about me instead:
 - [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
 - [osu-recorder](https://github.com/Lekuruu/osu-recorder) - Automatically spectate and record replays using osu.py!
 - [Titanic](https://github.com/osuTitanic/titanic) - A private server for old osu! clients
-    - [Anchor](https://github.com/osuTitanic/anchor) - (Bancho)
-    - [Deck](https://github.com/osuTitanic/deck) - (API)
+    - [Anchor](https://github.com/osuTitanic/anchor) - (Game Server)
+    - [Deck](https://github.com/osuTitanic/deck) - (Web API)
 
 ### Contributions
 
