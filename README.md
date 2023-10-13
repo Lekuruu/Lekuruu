@@ -1,9 +1,7 @@
 
 # Hi, my name is Levi!
 
-### About me (ﾉ◕ヮ◕)ﾉ
-
-I'm too lazy to write an essay, so here are some small facts about me instead:
+### About me
 
 - I'm 16 years old and live in Germany </br>
 - I am very passionate about programming, games, and networking </br>
