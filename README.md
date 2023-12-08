@@ -21,6 +21,7 @@
 
 - [akatsuki-alt](https://github.com/kanaarima/akatsuki-alt-v2)
 - [nerinyan-i18n](https://github.com/Nerinyan/Nerinyan-i18n)
+- [bancho.py](https://github.com/osuAkatsuki/bancho.py)
 
 ---
 
