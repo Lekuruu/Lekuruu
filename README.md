@@ -1,13 +1,6 @@
 
 # Hi, my name is Levi!
 
-### About me
-
-- I'm 16 years old and live in Germany </br>
-- I am very passionate about programming, games, and networking </br>
-- Actively developing on [Titanic](https://github.com/osuTitanic/titanic) and [osu.py](https://github.com/lekuruu/osu.py) </br>
-- Trying to learn frontend development ¯\(°_o)/¯ </br>
-
 ### Projects
 
 - [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
