@@ -16,6 +16,13 @@
 - [nerinyan-i18n](https://github.com/Nerinyan/Nerinyan-i18n)
 - [bancho.py](https://github.com/osuAkatsuki/bancho.py)
 
+### Future Plans
+
+- Contributing to [osu!](https://github.com/ppy/osu)
+- Contributing to [yukon](https://github.com/ppy/osu)
+- Creating a bancho documentation
+- Creating a card-jitsu snow game server for [houdini](https://github.com/solero/houdini)
+
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lekuruu&theme=aura) 
