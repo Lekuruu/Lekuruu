@@ -9,6 +9,7 @@
     - [Anchor](https://github.com/osuTitanic/anchor) - (Game Server)
     - [Deck](https://github.com/osuTitanic/deck) - (Web API)
     - [Stern](https://github.com/osuTitanic/stern) - (Website)
+- [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
 
 ### Contributions
 
@@ -19,9 +20,7 @@
 ### Future Plans
 
 - Contributing to [osu!](https://github.com/ppy/osu)
-- Contributing to [yukon](https://github.com/ppy/osu)
 - Creating a bancho documentation
-- Creating a card-jitsu snow game server for [houdini](https://github.com/solero/houdini)
 
 ---
 
