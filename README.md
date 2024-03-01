@@ -20,7 +20,7 @@
 ### Future Plans
 
 - Contributing to [osu!](https://github.com/ppy/osu)
-- Creating a bancho documentation
+- Creating a [bancho documentation](https://github.com/Lekuruu/bancho-documentation)
 
 ---
 
