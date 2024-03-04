@@ -4,7 +4,6 @@
 ### Projects
 
 - [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
-- [osu-recorder](https://github.com/Lekuruu/osu-recorder) - Automatically spectate and record replays using osu.py!
 - [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
 - [Titanic](https://github.com/osuTitanic/titanic) - A private server for old osu! clients
     - [Anchor](https://github.com/osuTitanic/anchor) - (Game Server)
