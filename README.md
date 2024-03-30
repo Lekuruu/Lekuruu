@@ -17,11 +17,6 @@
 - [bancho.py](https://github.com/osuAkatsuki/bancho.py)
 - [solero](https://github.com/solero/)
 
-### Future Plans
-
-- Contributing to [osu!](https://github.com/ppy/osu)
-- Creating a [bancho documentation](https://github.com/Lekuruu/bancho-documentation)
-
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lekuruu&theme=aura) 
