@@ -5,7 +5,7 @@
 
 - [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
 - [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
-- [Titanic](https://github.com/osuTitanic/titanic) - A private server for old osu! clients
+- [Titanic](https://github.com/osuTitanic/titanic) - A private server for all osu! clients
     - [Anchor](https://github.com/osuTitanic/anchor) - (Game Server)
     - [Deck](https://github.com/osuTitanic/deck) - (Web API)
     - [Stern](https://github.com/osuTitanic/stern) - (Website)
