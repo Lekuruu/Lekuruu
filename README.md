@@ -16,6 +16,7 @@
 - [nerinyan-i18n](https://github.com/Nerinyan/Nerinyan-i18n)
 - [bancho.py](https://github.com/osuAkatsuki/bancho.py)
 - [solero](https://github.com/solero/)
+- [cpi](https://github.com/CPImagined)
 
 ---
 
