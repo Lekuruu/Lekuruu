@@ -3,6 +3,7 @@
 
 ### Projects
 
+- [ubisoft-game-service](https://github.com/Lekuruu/ubisoft-game-service) - A re-implementation of Ubisoft's "Game Service" network
 - [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
 - [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
 - [Titanic](https://github.com/osuTitanic/titanic) - A private server for all osu! clients
