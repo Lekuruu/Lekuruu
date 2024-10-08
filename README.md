@@ -3,7 +3,7 @@
 
 ### Projects
 
-- [hexagon](https://github.com/Lekuruu/hexagon) - A game server for the now defunct game "hexis"
+- [hexagon](https://github.com/hexis-revival/hexagon) - A game server for the now defunct game "hexis"
 - [ubisoft-game-service](https://github.com/Lekuruu/ubisoft-game-service) - A re-implementation of Ubisoft's "Game Service" network
 - [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
 - [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
