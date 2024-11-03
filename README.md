@@ -24,7 +24,7 @@
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-     <img align="center" style="width: 40.6%;" src="https://github-readme-stats.vercel.app/api?username=Lekuruu&show_icons=true&theme=aura">
+     <img align="center" style="width: 40%;" src="https://github-readme-stats.vercel.app/api?username=Lekuruu&show_icons=true&theme=aura">
      <img align="center" style="width: 43%;" src="https://streak-stats.demolab.com/?user=Lekuruu&theme=aura">
     </span>
 </p>
