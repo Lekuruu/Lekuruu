@@ -22,4 +22,5 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lekuruu&theme=aura) 
+![](https://github-readme-stats.vercel.app/api?username=Lekuruu&show_icons=true&theme=aura) 
+![](https://streak-stats.demolab.com/?user=Lekuruu&theme=aura)
