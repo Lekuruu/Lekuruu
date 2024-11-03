@@ -22,7 +22,7 @@
 
 ---
 
-<p align="center" style="width: 60%;">
+<p align="center" style="width: 40%;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lekuruu&show_icons=true&theme=aura">
  <img align="center" src="https://streak-stats.demolab.com/?user=Lekuruu&theme=aura">
 </p>
