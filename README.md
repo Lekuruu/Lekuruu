@@ -3,16 +3,16 @@
 
 ### Projects
 
-- [hexagon](https://github.com/hexis-revival/hexagon) - A game server for the now defunct game "hexis"
-- [ubisoft-game-service](https://github.com/Lekuruu/ubisoft-game-service) - A re-implementation of Ubisoft's "Game Service" network
-- [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
-- [bancho-loadtesting](https://github.com/Lekuruu/bancho-loadtesting) - A tool to test the performance of bancho servers
-- [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
 - [Titanic](https://github.com/osuTitanic/titanic) - A private server for all osu! clients
     - [Anchor](https://github.com/osuTitanic/anchor) - (Game Server)
     - [Deck](https://github.com/osuTitanic/deck) - (Client API)
     - [Stern](https://github.com/osuTitanic/stern) - (Website)
     - [Keel](https://github.com/osuTitanic/keel) - (API)
+- [Snowflake](https://github.com/Lekuruu/snowflake) - A card-jitsu snow server emulator
+- [hexagon](https://github.com/hexis-revival/hexagon) - A game server for the now defunct game "hexis"
+- [chio.py](https://github.com/Lekuruu/chio.py) - A python library for serializing and deserializing bancho packets
+- [osu.py](https://github.com/Lekuruu/osu.py) - A python library that emulates the osu! stable client
+- [bancho-loadtesting](https://github.com/Lekuruu/bancho-loadtesting) - A tool to test the performance of bancho servers
 
 ### Contributions
 
