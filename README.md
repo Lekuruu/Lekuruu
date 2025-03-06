@@ -18,6 +18,7 @@
 
 - [akatsuki-alt](https://github.com/kanaarima/)
 - [nerinyan-i18n](https://github.com/Nerinyan/Nerinyan-i18n)
+- [bitview](https://github.com/Bittoco/BitView-Translations)
 - [bancho.py](https://github.com/osuAkatsuki/bancho.py)
 - [solero](https://github.com/solero/)
 - [cpi](https://github.com/CPImagined)
